@@ -42,3 +42,12 @@ https://github.com/user-attachments/assets/e649836c-0ba4-4428-8b01-c8f0b3451b8c
 }
 ```
 <img src="https://github.com/user-attachments/assets/aa3f5fdd-995f-4b14-a5d8-22c4ef8726c9"  height=25%  width = 25%>
+
+# Json Data Parsing
+
+## User Data
+<img src="https://github.com/user-attachments/assets/bb934df9-8533-4b04-915a-50d4b2d55263"  height=25%  width = 25%>
+
+## Post Data
+<img src="https://github.com/user-attachments/assets/3bd541fa-0007-4355-a534-eabc7d11d97f"  height=25%  width = 25%>
+
