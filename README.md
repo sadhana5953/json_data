@@ -1,3 +1,24 @@
+# 9.1 Dummy Json API Calling
+## Product
+<img src="https://github.com/user-attachments/assets/527ef908-78a0-4c74-b588-781b87572544"  height=25%  width = 25%>
+<img src="https://github.com/user-attachments/assets/289bc20c-8735-40d9-9e60-0b07b93912d6"  height=25%  width = 25%>
+
+
+https://github.com/user-attachments/assets/169f8f5a-2233-48ab-986e-0653c200f540
+
+
+## Recipe
+<img src="https://github.com/user-attachments/assets/958bea22-a53e-4190-ac46-5ad64711c583"  height=25%  width = 25%>
+<img src="https://github.com/user-attachments/assets/36aa85e7-0fa4-42a5-830a-69068209947a"  height=25%  width = 25%>
+
+
+# 9.2 Call Pixabay API & Represent in UI.
+<img src="https://github.com/user-attachments/assets/24ed183d-5aa1-49be-b1f6-7bf5550e11b3"  height=25%  width = 25%>
+
+
+https://github.com/user-attachments/assets/e649836c-0ba4-4428-8b01-c8f0b3451b8c
+
+
 ## json_data_ch8
 ## what is Json ?
 - JSON (JavaScript Object Notation) is a lightweight data interchange format that is easy for humans to read and write and easy for machines to parse and generate.
